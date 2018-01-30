@@ -5,3 +5,7 @@ Edit 1: let’s do some changes - add one line.
 Edit TextFile1 in Branch1. 
 
 
+Edit TextFile1 in Branch2. 
+
+
+
