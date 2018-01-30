@@ -1,3 +1,5 @@
 This is text file 3. 
 
 Edit TextFile3 in branch 1. 
+
+Edit TextFile 3 in Branch 2. 
